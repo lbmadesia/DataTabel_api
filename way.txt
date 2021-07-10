@@ -1,0 +1,8 @@
+first way : -
+                                 https://datatables.net/
+
+
+second way :-         
+   https://yajrabox.com/docs/laravel-datatables/master/installation
+
+             
