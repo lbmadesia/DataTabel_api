@@ -5,4 +5,14 @@ first way : -
 second way :-         
    https://yajrabox.com/docs/laravel-datatables/master/installation
 
+
+
+ $('#sampleTable').DataTable({
+        order: [[0, "desc"]],
+        searchDelay: 500,
+        dom: 'lBfrtip',
+        buttons: [
+            'copy', 'csv', 'excel', 'pdf', 'print'
+        ]
+    });
              
